@@ -16,6 +16,7 @@ Account ID: 5bb2d475-7b89-4f32-b37e-e0ac4bd9aeb2
 //add that picture to the DOM
 // As above with caption, paragraph 
 // Display the date on top/bottom
+//display the title
 
 then
 
