@@ -1,0 +1,23 @@
+Your API key for merlinjones10@gmail.com is:
+
+d1I88fYYUtxlURwBFr15pmDXpsIb0sAADqcKSHnh
+You can start using this key to make web service requests. Simply pass your key in the URL when making a web request. Here's an example:
+
+https://api.nasa.gov/planetary/apod?api_key=d1I88fYYUtxlURwBFr15pmDXpsIb0sAADqcKSHnh
+For additional support, please contact us. When contacting us, please tell us what API you're accessing and provide the following account details so we can quickly find you:
+
+Account Email: merlinjones10@gmail.com
+Account ID: 5bb2d475-7b89-4f32-b37e-e0ac4bd9aeb2
+
+
+// Website where it displays the NASA image of the day with a caption
+
+//create a function which gets the picture URL from the api
+//add that picture to the DOM
+// As above with caption, paragraph 
+// Display the date on top/bottom
+
+then
+
+// dislay the image on a selected date i.e my birthday
+
